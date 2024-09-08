@@ -1,11 +1,8 @@
-### Hi there, I'm Sylvain W. Combettes 👋
+### Hi there, I'm Sylvain Combettes 👋
 
-Since February 2024, I have been a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en), under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
-I am working on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a "learning-by-doing" pedagogical platform for AI acculturation.
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is a spin-off of [scikit-learn](https://scikit-learn.org/stable/), the world-famous open-source machine learning Python library.
 
-Previously, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
-More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
-I successfully defended my PhD on January 8th, 2024.
+From October 2020 to January 2024, I was a PhD student, at the Centre Borelli research lab from Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and Charles Truong. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
 My website: https://sylvaincom.github.io/
 
