@@ -1,6 +1,6 @@
 ### Hi there, I'm Sylvain Combettes 👋
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is a spin-off of [scikit-learn](https://scikit-learn.org/stable/), the world-famous open-source machine learning Python library.
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is the official brand operator of [scikit-learn](https://scikit-learn.org/stable/), the popular open-source machine learning Python library.
 
 Previously, I was a PhD student, at the Centre Borelli research lab from Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and Charles Truong. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
