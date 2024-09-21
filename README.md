@@ -1,3 +1,15 @@
+<div id="badges">
+  <a href="https://sylvaincom.github.io">
+    <img src="https://img.shields.io/badge/Personal Website-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sylvain-combettes/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/sylvaincom">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### Hi there, I'm Sylvain Combettes 👋
 
 Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of [scikit-learn](https://scikit-learn.org/stable/).
