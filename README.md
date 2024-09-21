@@ -18,8 +18,6 @@ Feel free to reach out to me if you are interested in such a product!
 
 Previously, I was a PhD student, at the Centre Borelli research lab from Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and Charles Truong. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
-My website: https://sylvaincom.github.io/
-
 <!--
 **sylvaincom/sylvaincom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
