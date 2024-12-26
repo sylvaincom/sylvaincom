@@ -21,6 +21,6 @@ I contribute to [skore](https://github.com/probabl-ai/skore), the scikit-learn m
 
 Previously, I was a PhD student, at [Ecole Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/École_normale_supérieure_Paris-Saclay) (France), where I worked on machine learning applied to time series. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
-📂 I've recently [Dec 2024] started to organize my GitHub stars into lists: see [my stars](https://github.com/sylvaincom?tab=stars).
+📂 I've recently (Dec 2024) started to organize my GitHub stars into lists: see [my stars](https://github.com/sylvaincom?tab=stars).
 
 Contact: `sylvain.combettes8 [a t] gmail.com`
