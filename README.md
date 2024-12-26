@@ -12,7 +12,7 @@
 
 ### Hi there, I'm Sylvain Combettes 👋
 
-Since September 2024, I have been a Machine Learning Product Engineer at [Probabl](https://probabl.ai/), the official brand operator of [scikit-learn](https://scikit-learn.org/stable/).
+Since September 2024, I have been a Machine Learning Product Engineer at [Probabl](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee), the official brand operator of [scikit-learn](https://scikit-learn.org/stable/).
 I contribute to [skore](https://github.com/probabl-ai/skore), the scikit-learn modeling companion.
 
 Previously, I was a PhD student, at Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
