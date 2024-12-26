@@ -13,10 +13,9 @@
 ### Hi there, I'm Sylvain Combettes 👋
 
 Since September 2024, I have been a Machine Learning Product Engineer at [Probabl](https://probabl.ai/), the official brand operator of [scikit-learn](https://scikit-learn.org/stable/).
-I contribute to designing and developing a data scientist companion, called [skore](https://github.com/probabl-ai/skore), to empower data scientists and companies in mastering their entire data lifecycle.
-Feel free to reach out to me if you are interested in such a product!
+I contribute to [skore](https://github.com/probabl-ai/skore), the scikit-learn modeling companion.
 
-Previously, I was a PhD student, at the Centre Borelli research lab from Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and Charles Truong. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
+Previously, I was a PhD student, at Ecole Normale Supérieure Paris-Saclay, where I worked on machine learning applied to time series. More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
 📂 I've recently [Dec 2024] started to organize my GitHub stars into lists: see [my stars](https://github.com/sylvaincom?tab=stars).
 
