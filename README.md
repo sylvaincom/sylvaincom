@@ -8,6 +8,10 @@
   <a href="https://x.com/sylvaincom">
     <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X (ex-Twitter) Badge"/>
   </a>
+  <a href="https://bsky.app/profile/sylvaincom.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
+
 </div>
 
 ### Hi there, I'm Sylvain Combettes 👋
